@@ -2,7 +2,7 @@ namespace AtmMachine;
 
 public class Atm
 {
-    private Card InsertedCard { get; }
+    private ICard InsertedCard { get; }
 
     public Atm(string cardNumber)
     {

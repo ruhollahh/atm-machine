@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ruhollah/RiderProjects/ConsoleApp3/AtmMachine/AtmMachine.csproj": {}
+    "/home/ruhollah/RiderProjects/AtmMachine/AtmMachine/AtmMachine.csproj": {}
   },
   "projects": {
-    "/home/ruhollah/RiderProjects/ConsoleApp3/AtmMachine/AtmMachine.csproj": {
+    "/home/ruhollah/RiderProjects/AtmMachine/AtmMachine/AtmMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ruhollah/RiderProjects/ConsoleApp3/AtmMachine/AtmMachine.csproj",
+        "projectUniqueName": "/home/ruhollah/RiderProjects/AtmMachine/AtmMachine/AtmMachine.csproj",
         "projectName": "AtmMachine",
-        "projectPath": "/home/ruhollah/RiderProjects/ConsoleApp3/AtmMachine/AtmMachine.csproj",
+        "projectPath": "/home/ruhollah/RiderProjects/AtmMachine/AtmMachine/AtmMachine.csproj",
         "packagesPath": "/home/ruhollah/.nuget/packages/",
-        "outputPath": "/home/ruhollah/RiderProjects/ConsoleApp3/AtmMachine/obj/",
+        "outputPath": "/home/ruhollah/RiderProjects/AtmMachine/AtmMachine/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ruhollah/.nuget/NuGet/NuGet.Config"

@@ -1,4 +1,4 @@
-namespace ConsoleApp3;
+namespace AtmMachine;
 
 public class Card: ICard
 {

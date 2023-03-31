@@ -1,4 +1,4 @@
-namespace ConsoleApp3;
+namespace AtmMachine;
 
 enum AtmMainOption {
     Withdrawal = 1,

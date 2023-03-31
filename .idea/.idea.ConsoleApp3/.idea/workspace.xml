@@ -4,7 +4,9 @@
     <projectFile>ConsoleApp3/ConsoleApp3.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdf0f936-7b38-4111-b3e1-68279116333c" name="Changes" comment="init" />
+    <list default="true" id="cdf0f936-7b38-4111-b3e1-68279116333c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp3/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,10 +48,10 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="ConsoleApp3" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+    <configuration name="AtmMachine" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/AtmMachine/bin/Debug/net6.0/AtmMachine" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AtmMachine/bin/Debug/net6.0" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
@@ -59,7 +61,7 @@
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value="net6.0" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -79,7 +81,7 @@
       <workItem from="1680020678849" duration="5294000" />
       <workItem from="1680036613536" duration="621000" />
       <workItem from="1680123281886" duration="101000" />
-      <workItem from="1680245415997" duration="7908000" />
+      <workItem from="1680245415997" duration="9389000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1680253057279</created>
@@ -88,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680253057279</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cleanup">
+      <created>1680253458206</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680253458206</updated>
+    </task>
+    <task id="LOCAL-00003" summary="cleanup">
+      <created>1680253508765</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680253508765</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleanup" />
   </component>
 </project>

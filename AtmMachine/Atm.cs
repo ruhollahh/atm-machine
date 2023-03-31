@@ -1,5 +1,3 @@
-using System.Threading.Channels;
-
 namespace ConsoleApp3;
 
 public class Atm

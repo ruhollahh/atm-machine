@@ -43,7 +43,7 @@ public class Atm
     private void BillPayment()
     {
         Console.WriteLine("Which bill do you want to pay?");
-        var billOptions = Enum.GetValues(typeof(AtmBillPaymentOption)).Cast<AtmBillPaymentOption>().ToArray();;
+        var billOptions = Enum.GetValues(typeof(AtmBillPaymentOption)).Cast<AtmBillPaymentOption>().ToArray();
         for (var i = 0; i < billOptions.Length; ++i)
         {
             Console.WriteLine($"{i + 1}. {billOptions[i]}");
@@ -61,7 +61,7 @@ public class Atm
     public void RunOperator()
     {
         Console.WriteLine("How can I Help you?");
-        var mainOptions = Enum.GetValues(typeof(AtmMainOption)).Cast<AtmMainOption>().ToArray();;
+        var mainOptions = Enum.GetValues(typeof(AtmMainOption)).Cast<AtmMainOption>().ToArray();
         for (var i = 0; i < mainOptions.Length; ++i)
         {
             Console.WriteLine($"{i + 1}. {mainOptions[i]}");
